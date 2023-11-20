@@ -1,6 +1,5 @@
 
 """
-Author: Hiroshi Nonaka
 This python file provides Matrix class, which contains basic linear algebraic functions
 and other functinos independent of matrices' self operatinos.
 
